@@ -33,6 +33,29 @@ The entire pipeline is implemented in a **Jupyter Notebook**, making it easy to 
 
 ---
 
+## 📂 Dataset (Open Source)
+
+This project uses the following **publicly available dataset**:
+
+🔗 **Melanoma Skin Cancer Dataset (10,000 images)**  
+Source: **Kaggle**  
+https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
+
+**Dataset characteristics:**
+- 10,000 dermoscopic images
+- Binary classification:
+  - **Benign**
+  - **Malignant**
+- Openly accessible for **research and educational use**
+- Widely used for benchmarking melanoma classification models
+
+Using an **open-source dataset** ensures:
+- reproducibility of experiments,
+- ethical data usage,
+- transparency for academic and industry evaluation.
+
+---
+
 ## 📊 Model Performance
 
 Evaluation was performed on a **balanced validation dataset of 1,000 images**.
